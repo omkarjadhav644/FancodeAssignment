@@ -17,7 +17,7 @@ This project demonstrates how to execute the provided scenario for Fancode Assig
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/omkarjadhav644/fancode.git
+   git clone https://github.com/omkarjadhav644/FancodeAssignment.git
    cd fancode
    import the pom.xml for the project in the IDE
    build the project using command: mvn clean install
